@@ -1,4 +1,4 @@
- # Hello, World! I'm Yazan Zidan, aka zLEXTRO 
+ # Hello, World! I'm Yazan, aka zLEXTRO 
 
 ## About Me
 ```python
