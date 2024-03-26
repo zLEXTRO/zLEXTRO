@@ -2,7 +2,7 @@
 
 ## About Me
 ```python
-class SoftwareEngineer:
+class SoftwareDeveloper:
     def __init__(self, username, passions):
         self.username = username
         self.passions = passions
@@ -11,5 +11,5 @@ class SoftwareEngineer:
         print(f"Welcome to my digital realm! My name is {self.username}, "
               f"and I'm passionate about {', '.join(self.passions)}.")
 
-zLEXTRO = SoftwareEngineer("zLEXTRO", ["programming", "software engineering", "innovation"])
+zLEXTRO = SoftwareDeveloper("zLEXTRO", ["programming","innovation"])
 zLEXTRO.greet()
