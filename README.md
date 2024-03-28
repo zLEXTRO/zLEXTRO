@@ -8,7 +8,7 @@ class SoftwareDeveloper:
         self.passions = passions
 
     def greet(self):
-        print(f"Welcome to my digital realm! My name is {self.username}, "
+        print(f"Welcome to my page! My name is {self.username}, "
               f"and I'm passionate about {', '.join(self.passions)}.")
 
 zLEXTRO = SoftwareDeveloper("zLEXTRO", ["programming","innovation"])
